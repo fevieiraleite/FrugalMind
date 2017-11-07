@@ -18,7 +18,7 @@ import java.util.List;
 import br.com.fernandoleite.frugalmind.R;
 
 public class NewTransactionActivity extends AppCompatActivity implements View.OnClickListener {
-    final String TAG = "NewTransactionActivity";
+    final String TAG = "NewTransactionActivityTest";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
